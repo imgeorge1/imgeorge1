@@ -2,8 +2,9 @@
 <h3 align="center">A junior full-stack developer from Georgia</h3>
 
 - 🔭 I’m currently working on a **public real-time chat project**  
-  🔗 Live: https://public-chat-fffg.onrender.com/
-  💻 Code: https://github.com/imgeorge1/public-chat
+  🔗 Live: [https://public-chat-fffg.onrender.com/](https://public-chat-fffg.onrender.com/)  
+  💻 Code: [https://github.com/imgeorge1/public-chat](https://github.com/imgeorge1/public-chat)
+
 
 - 📫 How to reach me **giorgi.zurabishvili@gmail.com**
 
