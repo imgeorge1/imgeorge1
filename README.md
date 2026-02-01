@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm George 👋</h1>
 <h3 align="center">A junior full-stack developer from Georgia</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=imgeorge1&label=Profile%20views&color=0e75b6&style=flat" alt="imgeorge1" />
+</p>
+
 - 🔭 I’m currently working on a **public real-time chat project**  
   🔗 Live: [https://public-chat-fffg.onrender.com/](https://public-chat-fffg.onrender.com/)  
   💻 Code: [https://github.com/imgeorge1/public-chat](https://github.com/imgeorge1/public-chat)
