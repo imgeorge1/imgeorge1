@@ -23,7 +23,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" title="ChatGPT" />
   </a>
   <a href="https://grok.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Robot_icon.svg" width="40" height="40" alt="Grok" />
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/grok.png" width="40" height="40" alt="Grok" />
   </a>
 
 
