@@ -22,9 +22,10 @@
   <a href="https://chat.openai.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" title="ChatGPT" />
   </a>
-  <a href="https://www.paloaltonetworks.com/grok" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grok_logo.png" width="40" height="40" title="Grok" />
+  <a href="https://grok.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Robot_icon.svg" width="40" height="40" alt="Grok" />
   </a>
+
 
 </p>
 
