@@ -10,7 +10,7 @@
   💻 Code: [https://github.com/imgeorge1/public-chat](https://github.com/imgeorge1/public-chat)
 
 
-- 📫 How to reach me **giorgi.zurabishvili@gmail.com**
+- 📫 How to reach me **giorgi.zurabishvili100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
